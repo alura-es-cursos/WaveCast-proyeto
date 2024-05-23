@@ -99,6 +99,7 @@ main {
     font-weight: 700;
     font-size: 1.25rem;
     user-select: none;
+    margin-top: 1rem;
 }
 
 .tarjeta { 
