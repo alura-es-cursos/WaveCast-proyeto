@@ -94,7 +94,7 @@ main {
 
 /*Main*/
 
-/*Estilos compartilhados pelos elementos presentes na seção horizontal e elementos da seção vertical*/
+/*Estilos compartidos por elementos presentes en la sección horizontal y elementos en la sección vertical*/
 .seccion__titulo {
     font-weight: 700;
     font-size: 1.25rem;
@@ -111,7 +111,7 @@ main {
     line-height: 1.35rem;
 }
 
-/*Seção horizontal*/
+/*Sección horizontal*/
 
 .seccion-horizontal .tarjeta {
     overflow: hidden;
@@ -132,7 +132,7 @@ main {
     padding-right: .75rem;
 }
 
-/*Seção vertical*/
+/*Sección vertical*/
 .seccion-vertical .tarjeta {
     padding: 1rem;
 }

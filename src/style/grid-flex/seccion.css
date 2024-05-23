@@ -1,6 +1,6 @@
 .seccion{
     display: grid;
-    align-items: end;
+    align-items:end;
     row-gap: 2rem;
 }
 
